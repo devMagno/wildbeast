@@ -83,8 +83,15 @@ body {
 .content {
   grid-area: content;
 }
+
+
 .ads {
   grid-area: ads;
+  background: #fafbfc;
+  display: grid;
+  align-content: start;
+  padding: 30px;
+  gap: 30px;
 }
 .footer {
   grid-area: footer;
