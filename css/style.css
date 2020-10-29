@@ -36,9 +36,6 @@ body {
 .ads {
   grid-area: ads;
 }
-/* .ads .ads-item {
-  width: 5000px;
-} */
 .footer {
   grid-area: footer;
 }
