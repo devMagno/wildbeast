@@ -9,3 +9,7 @@ li {
 a {
   text-decoration: none;
 }
+
+body {
+  font-family: 'Vollkorn', Georgia, 'Times New Roman', Times, serif;
+}
