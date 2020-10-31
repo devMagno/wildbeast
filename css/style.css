@@ -161,6 +161,21 @@ p {
   max-width: 16em;
 }
 
+.quote, .attributes {
+  padding: 30px;
+  background: linear-gradient(135deg, #8844ee, #B07DFB);
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 0px rgba(44,44,44,0.15);
+}
+.quote p {
+  font-size: 1.5em;
+  font-style: italic;
+  text-align: center;
+  color: white;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
 
 .ads {
   grid-area: ads;
