@@ -27,6 +27,28 @@ body {
   "footer footer footer"
   ;
 }
+@media screen and (max-width: 1200px) {
+  .structure {
+    grid-template-areas: 
+      "header header header"
+      "side-nav content content"
+      "side-nav ads ads"
+      "footer footer footer"
+      ;
+  }
+}
+@media screen and (max-width: 760px) {
+  .structure {
+    grid-template-columns: 100%;
+    grid-template-areas: 
+    "header"
+    "side-nav"
+    "content"
+    "ads"
+    "footer"
+    ;
+  }
+}
 .header {
   grid-area: header;
   background: linear-gradient(135deg, #8844ee, #B07DFB);
