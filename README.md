@@ -11,6 +11,9 @@
 ---
 
 ## 🚀 Tecnologias e ferramentas utilizadas
+- **HTML5**
+- **CSS3 [Grid Layout](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)**
+- **[Brackets](http://brackets.io/)** 
 
 
 ---
