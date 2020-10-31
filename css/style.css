@@ -192,6 +192,8 @@ p {
 }
 .title span {
   font-size: 0.875em;
+}
+.title span > span {
   font-style: italic;
 }
 
