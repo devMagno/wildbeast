@@ -155,6 +155,12 @@ p {
   top: 2px;
 }
 
+.highlight {
+  font-size: 0.875em;
+  color: #B07DFB;
+  max-width: 16em;
+}
+
 
 .ads {
   grid-area: ads;
