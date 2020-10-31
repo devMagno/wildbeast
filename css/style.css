@@ -116,6 +116,14 @@ body {
 .side-nav li a:hover {
   background: #B07DFB;
 }
+@keyframes arrow {
+  from {
+    right: 30px;
+  }
+  to {
+    right: 25px;
+  }
+}
 @media screen and (max-width: 760px) {
   .side-nav {
     padding: 0 30px;
@@ -130,6 +138,7 @@ body {
     top: 5px;
     right: 30px;
     color: rgba(0, 0, 0, .3);
+    animation: arrow .5s ease-in 0s infinite alternate;
   }
   .side-nav ul {
     display: flex;
