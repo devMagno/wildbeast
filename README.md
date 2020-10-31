@@ -16,7 +16,8 @@
 ---
 
 ## 🖥️ Demonstração
- 
+[![Wildbeast](https://i.imgur.com/HvbFC3R.png "Clique para acessar o projeto")](https://devmagno.github.io/wildbeast/ "Clique para acessar o projeto")   
+
 
 Você pode acessar o projeto clicando [aqui](https://devmagno.github.io/wildbeast/).
 
