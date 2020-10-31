@@ -80,6 +80,22 @@ body {
 .header nav ul li +  li {
   margin-left: 30px;
 }
+@media screen and (max-width: 760px) {
+  .header {
+    grid-template-columns: auto;
+  }
+  
+  .logo {
+    margin-bottom: 20px;
+  }
+  
+  .header nav ul li a {
+    font-size: 1em;
+  }
+  .header nav ul li +  li {
+    margin-left: 10px;
+  }
+}
 
 .side-nav {
   grid-area: side-nav;
