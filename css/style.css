@@ -161,6 +161,11 @@ body {
   grid-template-columns: 1fr 1fr;
   gap: 30px;
 }
+@media screen and (max-width: 600px) {
+  .content {
+    grid-template-columns: auto;
+  }
+}
 .col-wide {
   grid-column: 1 / -1;
 }
