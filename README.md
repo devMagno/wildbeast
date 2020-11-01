@@ -1,12 +1,10 @@
-<h2 align="center">⚠️Projeto em desenvolvimento⚠️</h2>
-
 # Wildbeast 🐺
 <p align="center">
 <img src="https://i.imgur.com/kdhcGjk.png" alt="Wildbeast" title="Wildbeast">
 </p>
 
 ## 📖 Sobre   
-
+O projeto **Wildbeast** foi desenvolvido durante o curso de **CSS Grid Layout** da **[Origamid](https://www.origamid.com/)**. Durante o curso, é feita uma introdução à todas as propriedades do grid (tanto do grid container quanto dos grid items) e em seguida, colocamos a mão na massa desenvolvendo o Wildbeast, uma página de demonstração de animais selvagens feita utilizando a nova propriedade Grid do CSS3 e com um design inteiramente responsivo.
 
 ---
 
