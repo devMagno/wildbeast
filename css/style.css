@@ -265,6 +265,9 @@ p {
 .attributes li + li {
   border-top: 2px solid #B07DFB;
 }
+.attributes li span.family {
+  font-style: italic;
+}
 
 
 .ads {
